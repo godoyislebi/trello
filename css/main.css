@@ -1,0 +1,26 @@
+*{
+	font-family: 'Cuprum', sans-serif;
+}
+
+.azul{
+	background-color: #026aa7;
+}
+
+.blue-color{
+	color: #80b4d3;
+}
+
+.bguardar{
+	background-color:#5baf46;
+	border-radius: 10px;
+	color:#ffffff;
+
+}
+
+.btn-default{
+	margin:20px;
+}
+
+.celeste{
+	background-color: #e2e4e6;
+}
